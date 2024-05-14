@@ -1,6 +1,6 @@
 # abc
 
-An CLI utility for printing English alphabet
+An CLI utility for printing English alphabet in a terminal
 
 ## usage
 
