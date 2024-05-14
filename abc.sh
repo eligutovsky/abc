@@ -4,7 +4,7 @@
 alphabet=("A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z")
 
 # Number of letters per row
-letters_per_row=6
+letters_per_row=${1:-6}
 
 # Print the alphabet in rows, up to 'letters_per_row' letters per row
 for ((i = 0; i <= ${#alphabet[@]}; i++)); do
