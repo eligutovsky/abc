@@ -12,4 +12,4 @@ ln -s ~/Developer/abc/abc.sh /usr/local/bin/abc
 ```
 
 > [!NOTE]
-> To solve `ln: /usr/local/bin/abc: Permission denied` error - to invoke with `sudo` command
+> To solve `ln: /usr/local/bin/abc: Permission denied` error -- use `sudo` command
